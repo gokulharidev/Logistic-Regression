@@ -1,0 +1,22 @@
+# Logistic Regression Model Training Repository
+
+This repository is dedicated to training myself in writing and understanding machine learning models, specifically using logistic regression. The primary focus is on improving model accuracy, which is currently low due to the high variance in the data. The data used for training is generated using GPT, which contributes to the variability and challenges in achieving higher accuracy.
+
+## Key Features
+- **Logistic Regression**: The model is trained using logistic regression, a popular method for binary classification problems.
+- **Data Variance**: The data used for training is generated using GPT, leading to high variance and lower model accuracy.
+- **Learning and Improvement**: This repository serves as a learning tool to understand the intricacies of logistic regression and to improve model performance over time.
+
+## Goals
+- To gain a deeper understanding of logistic regression and its applications.
+- To explore methods for handling high variance in data.
+- To improve the accuracy of the logistic regression model through various techniques and optimizations.
+
+## Usage
+To use the code in this repository, follow the instructions provided in the respective scripts and notebooks. Ensure that you have the necessary dependencies installed.
+
+## Dependencies
+- Python 3.10
+- scikit-learn
+- numpy
+- pandas
