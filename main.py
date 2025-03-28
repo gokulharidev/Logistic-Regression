@@ -1,7 +1,7 @@
 from LogisticRegression import Logistic
 
 import pandas as pd
-file=pd.read_csv("X:\python programs\ml\Logistic Regression\samdataset.csv")
+file=pd.read_csv("samdataset.csv")
 x=file.iloc[:,0]
 y=file.iloc[:,1]
 
